@@ -31,6 +31,11 @@ O projeto **Amigo Secreto** é uma aplicação web que permite adicionar nomes d
 Foi feito o deploy do projeto através do vercel:
 https://sorteio-amigo-secreto-flax.vercel.app/
 
+## Atualizações Futuras
+- Integração com back-end para eviar nomes sorteados por email
+- Pesonalização de fron-end com responsividade
+- Criar uma função para não repetir nomes sorteados
+
 ## Contato
 Desenvolvido por **Ayran Vieira**. Para mais informações ou sugestões, entre em contato:
 - 📧 [ayrandeveloper@gmail.com](mailto:ayrandeveloper@gmail.com)
