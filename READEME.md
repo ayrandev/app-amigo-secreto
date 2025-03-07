@@ -1,22 +1,38 @@
 # Amigo Secreto
 
-Este é um projeto simples para sorteio de Amigo Secreto. O objetivo é permitir que os usuários insiram os nomes e e-mails de seus amigos, e, após adicionar todos os amigos, o sistema realiza o sorteio de um amigo secreto.
+## Descrição
+O projeto **Amigo Secreto** é uma aplicação web que permite adicionar nomes de participantes e realizar um sorteio aleatório de amigo secreto.
+
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
 
 ## Funcionalidades
+- Adicionar nomes de participantes à lista.
+- Visualizar a lista de amigos adicionados.
+- Sortear aleatoriamente um amigo secreto.
 
-- **Adicionar amigos:** O usuário pode adicionar o nome e o e-mail dos amigos.
-- **Listagem de amigos:** Exibição da lista de amigos inseridos.
-- **Sorteio:** O usuário pode realizar o sorteio de um amigo secreto aleatoriamente.
-- **Resultado do sorteio:** O nome do amigo sorteado é exibido na tela.
+## Como Utilizar
+1. Acesse a aplicação através do link: [Amigo Secreto - Deploy](https://sorteio-amigo-secreto-flax.vercel.app/)
+2. Digite um nome no campo de entrada e clique no botão **Adicionar**.
+3. Após adicionar os participantes, clique em **Sortear amigo** para realizar o sorteio.
+4. O nome sorteado será exibido na tela.
 
 ## Estrutura do Projeto
+```
+📂 Amigo Secreto
+│── 📄 index.html  # Estrutura principal do site
+│── 📄 style.css   # Estilização da página
+│── 📄 app.js      # Lógica do sorteio e manipulação do DOM
+│── 📂 assets      # Imagens e ícones utilizados
+```
+## Deploy
+Foi feito o deploy do projeto através do vercel:
+https://sorteio-amigo-secreto-flax.vercel.app/
 
-A estrutura do projeto é a seguinte:
-
-/amigo-secreto 
-|-- index.html 
-|-- style.css 
-|-- app.js  
-|-- /assets
-|   -- amigo-secreto.png 
-|   -- play_circle_outline.png
+## Contato
+Desenvolvido por **Ayran Vieira**. Para mais informações ou sugestões, entre em contato:
+- 📧 [ayrandeveloper@gmail.com](mailto:ayrandeveloper@gmail.com)
+- 📸 [Instagram](https://www.instagram.com/ayran.code)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayran-vieira-dev/)
